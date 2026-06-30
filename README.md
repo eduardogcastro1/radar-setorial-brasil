@@ -2,9 +2,18 @@
 
 Produto híbrido de análise setorial: dashboard visual + leitura editorial.
 
-## V3 — arquitetura multipágina
+## V4 — refinamento visual/editorial
 
-Estrutura publicada no GitHub Pages:
+Aplicado:
+
+1. Home mais editorial.
+2. Hero mais premium.
+3. Cards de setor com métricas.
+4. Páginas de setor com tese mais nobre.
+5. Tabelas com estética financeira.
+6. Gráficos mais limpos.
+
+Estrutura:
 
 - `/` — homepage executiva
 - `/setores/` — índice de setores
@@ -12,14 +21,6 @@ Estrutura publicada no GitHub Pages:
 - `/setores/bancos/` — página de bancos
 - `/metodologia/` — metodologia e limitações
 
-Características:
-
-- visual escuro mantido;
-- homepage 60% editorial / 40% dashboard;
-- páginas de setor com template único;
-- URLs em português;
-- CSS e dados separados em `assets/`.
-
-Atualizado em: 2026-06-30 14:18 UTC
+Atualizado em: 2026-06-30 14:36 UTC
 
 Aviso: página demonstrativa e educacional, não é recomendação de investimento.
