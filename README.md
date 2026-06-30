@@ -2,16 +2,15 @@
 
 Produto híbrido de análise setorial: dashboard visual + leitura editorial.
 
-## V4 — refinamento visual/editorial
+## V5 — cobertura setorial ampliada
 
 Aplicado:
 
-1. Home mais editorial.
-2. Hero mais premium.
-3. Cards de setor com métricas.
-4. Páginas de setor com tese mais nobre.
-5. Tabelas com estética financeira.
-6. Gráficos mais limpos.
+1. Quatro novos setores ativos: Saneamento, Commodities, Varejo/Consumo e Saúde.
+2. Páginas individuais para todos os setores ativos.
+3. Cards de setor com métricas comparáveis.
+4. Tabelas financeiras e gráficos por setor.
+5. Home e índice atualizados para seis setores.
 
 Estrutura:
 
@@ -21,6 +20,6 @@ Estrutura:
 - `/setores/bancos/` — página de bancos
 - `/metodologia/` — metodologia e limitações
 
-Atualizado em: 2026-06-30 14:36 UTC
+Atualizado em: 2026-06-30 15:02 UTC
 
 Aviso: página demonstrativa e educacional, não é recomendação de investimento.
