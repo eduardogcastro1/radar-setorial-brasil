@@ -2,17 +2,24 @@
 
 Produto híbrido de análise setorial: dashboard visual + leitura editorial.
 
-## V2
+## V3 — arquitetura multipágina
 
-Setores ativos:
+Estrutura publicada no GitHub Pages:
 
-- Energia elétrica
-- Bancos
+- `/` — homepage executiva
+- `/setores/` — índice de setores
+- `/setores/energia/` — página do setor elétrico
+- `/setores/bancos/` — página de bancos
+- `/metodologia/` — metodologia e limitações
 
-A V2 adiciona comparação setorial, páginas/blocos dedicados para Bancos, ranking entre setores ativos e metodologia mais explícita separando dados de mercado de score editorial.
+Características:
 
-Publicado via GitHub Pages.
+- visual escuro mantido;
+- homepage 60% editorial / 40% dashboard;
+- páginas de setor com template único;
+- URLs em português;
+- CSS e dados separados em `assets/`.
 
-Atualizado em: 2026-06-30 13:50 UTC
+Atualizado em: 2026-06-30 14:18 UTC
 
 Aviso: página demonstrativa e educacional, não é recomendação de investimento.
